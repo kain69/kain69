@@ -14,3 +14,13 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+[![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=kain69&count_private=true&include_all_commits=true&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
+
+E-mail: karmazin00@gmail.com / karmazinxx@gmail.com
+
+<p align="center"> 
+  <a href="https://vk.com/akie69">
+    <img src="https://github.com/egorozh/egorozh/blob/main/Resources/vk.svg" alt="VK" style="vertical-align:top; margin:4px" height=32>
+  </a>
+</p>
