@@ -14,7 +14,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 - 🔭 I’m currently working on something cool
-- 🌱 I’m currently learning C# and everything related to it
+- 🌱 I’m currently learning C#, Java and everything related to it
 
 [![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=kain69&show_icons=true&count_private=true&include_all_commits=true&theme=radical)](https://github.com/anuraghazra/github-readme-stats) [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=kain69&layout=compact&theme=radical)](https://github.com/kain69/github-readme-stats)
 
