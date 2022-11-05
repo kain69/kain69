@@ -16,6 +16,13 @@ Here are some ideas to get you started:
 - 🔭 I’m currently working on something cool
 - 🌱 I’m currently learning C#, Java and everything related to it
 
+<h1><img src="octocats/octocat-squid.gif" width="40" height="40"> Technologies & Tools</h1>
+![](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white)
+![](https://img.shields.io/badge/Kotlin-0095D5?&style=for-the-badge&logo=kotlin&logoColor=white)
+![](https://img.shields.io/badge/Spring-6DB33F?style=for-the-badge&logo=spring&logoColor=white)
+![](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
+![](https://img.shields.io/badge/Hibernate-59666C?style=for-the-badge&logo=Hibernate&logoColor=white)
+
 [![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=kain69&show_icons=true&count_private=true&include_all_commits=true&theme=radical)](https://github.com/anuraghazra/github-readme-stats) [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=kain69&layout=compact&theme=radical)](https://github.com/kain69/github-readme-stats)
 
 E-mail: karmazin00@gmail.com / karmazinxx@gmail.com
