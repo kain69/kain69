@@ -17,6 +17,7 @@ Here are some ideas to get you started:
 - 🌱 I’m currently learning C#, Java and everything related to it
 
 <h1><img src="octocats/octocat-squid.gif" width="40" height="40"> Technologies & Tools</h1>
+
 ![](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white)
 ![](https://img.shields.io/badge/Kotlin-0095D5?&style=for-the-badge&logo=kotlin&logoColor=white)
 ![](https://img.shields.io/badge/Spring-6DB33F?style=for-the-badge&logo=spring&logoColor=white)
