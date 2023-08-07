@@ -14,7 +14,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 - 🔭 I’m currently working on something cool
-- 🌱 I’m currently learning C#, Java and everything related to it
+- 🌱 I’m currently learning Java, Kotlin, Spring and everything related to it
 
 <h1>Technologies & Tools</h1>
 
