@@ -30,6 +30,9 @@ E-mail: karmazin00@gmail.com / karmazinxx@gmail.com
 
 <p align="center"> 
   <a href="https://vk.com/akie69">
-    <img src="https://github.com/egorozh/egorozh/blob/main/Resources/vk.svg" alt="VK" style="vertical-align:top; margin:4px" height=32>
+    <img src="https://github.com/kain69/kain69/blob/main/resources/vk.svg" alt="VK" style="vertical-align:top; margin:4px" height=32>
+  </a>
+  <a href="https://t.me/karmazin00">
+    <img src="https://github.com/kain69/kain69/blob/main/resources/telegram.svg" alt="TELEGRAM" style="vertical-align:top; margin:4px" height=32>
   </a>
 </p>
