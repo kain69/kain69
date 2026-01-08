@@ -23,8 +23,6 @@ Here are some ideas to get you started:
 ![](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
 ![](https://img.shields.io/badge/Hibernate-59666C?style=for-the-badge&logo=Hibernate&logoColor=white)
 
-[![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=kain69&show_icons=true&count_private=true&include_all_commits=true&theme=radical&PAT_1)](https://github.com/anuraghazra/github-readme-stats) [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=kain69&layout=compact&theme=radical&PAT_1)](https://github.com/kain69/github-readme-stats)
-
 E-mail: karmazin00@gmail.com / karmazinxx@gmail.com
 
 <p align="center"> 
